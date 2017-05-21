@@ -1,5 +1,0 @@
-setup.py
-colorprint.egg-info/PKG-INFO
-colorprint.egg-info/SOURCES.txt
-colorprint.egg-info/dependency_links.txt
-colorprint.egg-info/top_level.txt
