@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: colorprint
+Version: 1.0
+Summary: print color when you use python shell 
+Home-page: https://github.com/RedFalsh/python_package.git
+Author: RedFalsh
+Author-email: 13693421942@163.com
+License: MIT
+Description: 
+        All you have to do is the following::
+        
+            from colorprint import colorprint
+            pcl = colorprint()
+            print(pcl.red(''))
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 3+
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
