@@ -3,7 +3,8 @@
 
 
 - [colorprint](#colorprint)
-- [PyQt5_stylesheet](#PyQt5_stylesheet)
+
+- [pyqt5_stylesheet](#pyqt5_stylesheet)
 
 
 ## git python_packages
@@ -14,7 +15,9 @@ colorprint
 ----
 
 - install:
+
     `cd colorprint`
+
     `sudo python setup.py install`
 
 - use:
@@ -25,11 +28,13 @@ colorprint
     print(cl.red('this is a red print test '))
     ```
 
-PyQt5_stylesheet
+pyqt5_stylesheet
 ----
 
 - install:
+
     `cd colorprint`
+
     `sudo python setup.py install`
 
 - use:
